@@ -422,6 +422,8 @@ Dict::Add('EN US', 'English', 'English', array(
 	'UI:Button:Insert' => 'Insert',
 	'UI:Button:More' => 'More',
 	'UI:Button:Less' => 'Less',
+	'UI:Treeview:CollapseAll' => 'Collapse All',
+	'UI:Treeview:ExpandAll' => 'Expand All',
 
 	'UI:SearchToggle' => 'Search',
 	'UI:ClickToCreateNew' => 'Create a new %1$s',
